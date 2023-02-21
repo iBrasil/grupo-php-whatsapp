@@ -1,0 +1,4 @@
+https://github.com/iBrasil/grupo-php-whatsapp.git
+
+Este repositório foi criado para divulgação do grupo de WhatsApp relacionado a programação PHP.
+Link: https://chat.whatsapp.com/K50KdSu4eg2BJqzzIFr2Lu
